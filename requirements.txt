@@ -1,0 +1,9 @@
+# Model weights and inference code for the paper
+# "Efficient JPEG Restoration in the Wavelet Domain via Mean Flows"
+# https://arxiv.org/abs/2608.28730
+
+torch>=2.0
+torchvision
+Pillow>=9.1
+numpy
+requests

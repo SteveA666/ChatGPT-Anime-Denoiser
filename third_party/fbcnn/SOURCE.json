@@ -1,0 +1,8 @@
+{
+  "space": "https://huggingface.co/spaces/KenjieDec/FBCNN",
+  "revision": "5eee4c8c4f9c1606ac1463b65b4d9da178131cf9",
+  "source_files": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "network_fbcnn.py": "06925c713e52f74f215f25b34124f09c48af4b1fb394cb9934ae791cf55a30f0"
+  }
+}
